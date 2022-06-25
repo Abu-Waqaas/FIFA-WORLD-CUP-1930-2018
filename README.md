@@ -7,12 +7,11 @@ This is A research assignment that was given to us at Side hustle internship Boo
 5. Stadium with Highest Average Attendance
 6. Which countries had won the world cup?
 7. Number of goals per country
-8.  Match outcome by home and away
+8. Match outcome by home and away
 9. All time highest Goal scorer
-10. Referee with the highest number of appearance
-11. Total number of Goals scored in the world cup from 1930 - 2018
-12. Number of qualified teams per year
-13. Number of competition hosted by continents
+10. Total number of Goals scored in the world cup from 1930 - 2018
+11. Number of qualified teams per year
+12. Number of competition hosted by continents
 
 # Data Source
 The Data consist 5 sheets, some of the sheets were gotten from Kaggle, and some were scrapped from online 
