@@ -14,9 +14,15 @@ This is A research assignment that was given to us at Side hustle internship Boo
 12. Number of competition hosted by continents
 
 # Data Source
-The Data consist 5 sheets, some of the sheets were gotten from Kaggle, and some were scrapped from online 
+The data used for this analysis consist 5 sheet, and the file were gotten from different sources, part of it were from from Kaggle as a CSV file, and some were scrapped from online 
 
-## Data Transformation
+## Data  Preparation / Transformation
+since this data weren't from a sheet, so i had to open a file for them, so as to have the opportunity to view and compare which data is useful and valid for my task 
+![Screenshot (102)](https://user-images.githubusercontent.com/106377378/175754597-a1bd36f9-dca7-4afa-a623-7d3e8bb973dc.png)
+
+
+
+
 The data was cleaned using Power Query in Microsoft Excel and also a new column was created in the process of cleaning, 
 1. In the Matches sheet, some column were removed due to the fact that we don't really need them and a column was also added, which is the column for home and away win was created using the one of the Excel function = IFS (Home team goal> Away, "H", Home team goal < Away team goal, "A", Home team goal = Away team goal, "D")
 
@@ -25,6 +31,9 @@ The data was analysed using Microsoft Power BI, different visuals were used in t
 
 
 ### Visualization
+![1](https://user-images.githubusercontent.com/106377378/175754651-e8ffaf1e-1dbe-47e0-822b-ca87af2f9767.jpeg)
+![2](https://user-images.githubusercontent.com/106377378/175754638-0bce0029-a6d1-43ed-a828-63b81b04bcec.jpeg)
+
 
 ### Observations
 
