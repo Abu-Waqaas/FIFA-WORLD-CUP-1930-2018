@@ -75,18 +75,30 @@ The match outcome by home/away/draw was also visualised using Pie chart
 
 
 ### Observations
-The first thing that was observed was that, the competition is a quadrennial competition, that it is, it takes place in every four years
+The first thing that was observed was that, the competition is a quadrennial competition, that it is, it takes place in every four years.
+
 It was also noticed that the competition didn't take place two tmies cosecuttively, in the hear 1942 and 1946 and research shwoed that this happened due to the world Wear II that was on then.
-From the research it also shows that the competition has been played 21 times
+
+From the research it also shows that the competition has been played 21 times.
+
 It also shows that Brazil has won the tournament 5 times and making it the country that has won the competition most.
+
 it was also shown notice that Europe continent has won the tournament most 12 times, than any other tournament with 5 countries having won it from the competition and  American continent has won it 9 times with (Southern and Northern part of the continent being added together) with # countries from the tournament.
+
 Miroslav Klose of Germany has the highest number of goals in the competition 16 goals and participated in the competition four times in 2002-2014.
+
 The competition is often hosted in a country except for 2002 when two countries hosted it Korea and Japan.
+
 The highest number of venues that has been used for the tournament is 20 venues in the year 2002.
+
 Brazil has participated in the tournament 21 times, making it the country with highest number of attendant oin the tournament and the only counntry that has never missed any tournament since the beginning of the tournament.
-The highest goal scored in a tournament is 171, in the year 1998 and 2014 and the lowest goal scored in the competition is 70 in the year 1930 and 1934
+
+The highest goal scored in a tournament is 171, in the year 1998 and 2014 and the lowest goal scored in the competition is 70 in the year 1930 and 1934.
+
 The competition statrted with 13 countries in the year 1930, then gradually it started increasing and now it's being played by 32 countries since 1998.
+
 And the competition recorded its highhest number of attendance in the year 1994 with 3,568,567 in the United states of America, and recorded its lowest number of attendance in the year 1934, with total number of 395,000 in Italy.
+
 The match with the highest number of attendance was the final between Uruguay and Brazil in the 16th of June in the year 1950, with the total number of 173,850 
 
 
