@@ -1,5 +1,6 @@
 # Project Objective
-This is A research assignment that was given to us at Side hustle internship Bootcamp, we were asked to work on FIFA WORLD CUP Analysis Since the begining of the tournament in 1930 to 2018, and the following insights are what are been expected of us to give in our report
+At side hustle Boot Camp, my team was expected to make research on FIFA World Cup from its inception till 2018, and the following questions were to be answered.
+
 1. Number of World cup winning title : Meaning how many world cup has been played since 1930- 2018
 2. Attendance, Number of teams, Goals and Matches per cup
 3.  Goals per team per World Cup
@@ -14,16 +15,11 @@ This is A research assignment that was given to us at Side hustle internship Boo
 12. Number of competition hosted by continents
 
 # Data Source
-The data used for this analysis consist 5 sheet, and the file were gotten from different sources, part of it were from from Kaggle as a CSV file, and some were scrapped from online .
+The data was gathered from kaggle and online. The format was .xxls
 
 ## Data  Preparation / Transformation
-since this data weren't from a sheet, so i had to open a file for them, so as to have the opportunity to view and compare which data is useful and valid for my task 
-![Screenshot (102)](https://user-images.githubusercontent.com/106377378/175754597-a1bd36f9-dca7-4afa-a623-7d3e8bb973dc.png)
 
-
-
-
-The data was cleaned using Power Query in Microsoft Excel and also a new column was created in the process of cleaning, 
+The data were cleaned using Power Query in Microsoft Excel and also a new column was created in the process of cleaning and transformation.
 1. In the Matches sheet, some column were removed due to the fact that we don't really need them and a column was also added, which is the column for home and away win was created using the one of the Excel function = IFS (Home team goal> Away, "H", Home team goal < Away team goal, "A", Home team goal = Away team goal, "D")
 
 ### Analysis
