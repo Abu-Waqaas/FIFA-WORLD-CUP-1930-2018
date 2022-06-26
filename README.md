@@ -8,7 +8,7 @@ At side hustle Boot Camp, my team was expected to make research on FIFA World Cu
 5. Stadium with Highest Average Attendance
 6. Which countries had won the world cup?
 7. Number of goals per country
-8. Match outcome by home and away
+8. Matches outcome by home and away
 9. All time highest Goal scorer
 10. Total number of Goals scored in the world cup from 1930 - 2018
 11. Number of qualified teams per year
@@ -20,7 +20,7 @@ The data were gathered from kaggle and online. The format was CSV
 ## Data  Preparation / Transformation
 
 The data were cleaned using Power Query in Microsoft Excel and also a new column was created in the process of cleaning and transformation.
-In the Matches sheet, some columns were removed, because we don't really need them and a column was also added, which is the column for home and away win was created using the one of the Excel function = IFS (Home team goal> Away, "H", Home team goal < Away team goal, "A", Home team goal = Away team goal, "D")
+In the Matches sheet, some columns were removed, because we don't really need them and a column was also added, which is the column for home and away wins, and it was created using one of the functions in Microsoft Excel, which is = IFS (Home team goal> Away, "H", Home team goal < Away team goal, "A", Home team goal = Away team goal, "D")
 
 ### Analysis
 The data was analysed using Microsoft Power BI, different visuals were used in the analysis processes e.g Bar chart, Pie Chart, Images,  Table, Card etc. 
@@ -29,11 +29,11 @@ This virtual below was created using Card, and it shows the number of title that
 
 ![Screenshot (108)](https://user-images.githubusercontent.com/106377378/175816132-1659eebb-58f0-42e6-bbe6-a2193ad5f75d.png)
 
-The Country that has won the competition most is Brazil 5 times
+The Country with the highest number of title won is Brazil, and they've won it 5 times (1958, 1962, 1970, 1994 and 2002)
 
 ![Brazil](https://user-images.githubusercontent.com/106377378/175819071-af6f19d7-b110-4215-a276-0956be573935.png)
 
-And average attendace of stadium was also find using Trend line chart, and it shows the Maracena stadium in Brazil has the highest average attendance in the competition history
+And the average attendace of stadium was gotten using line chart, and it shows that Maracana stadium in Brazil has the highest average attendance in the competition history
 
 ![Screenshot (109)](https://user-images.githubusercontent.com/106377378/175816318-78b44395-a474-4afc-b9e8-2f2630f3c6e4.png)
 
@@ -41,21 +41,21 @@ And also the top 5 matches with the highest number of attendance since the begin
 
 ![Screenshot (110)](https://user-images.githubusercontent.com/106377378/175816758-710e9ea0-99da-4185-ae5e-8eebfea810e8.png)
 
-We also visualized the host countries also by continent and it shows from the visuaals that Europe is the highest host of the tournament, having hosted of it 11 times.
+We also visualized the host countries also by continent and it shows from the visuaals that Europe is the highest host of the tournament, having hosted the tournament 11 times.
 
 ![Screenshot (112)](https://user-images.githubusercontent.com/106377378/175816980-832eeef4-448f-4394-ad9d-10082b47a757.png)
 
-The Team with the highest overall goals since the begining of the tournament was also gotten using table and it shows that, Germany has the highest overall goals since the begining of the tournament with the total number of 229, making the country to has 3 goal ahead of Brazil which is the second on the list after having scored 226, with Argentina coming third  with 137 goals.
+The country with the highest overall goals since the begining of the tournament were also gotten using table and it shows that, Germany has the highest overall goals (229), since the begining of the tournament.
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/106377378/175817331-564f55dc-33ea-4351-a314-05af27a373b6.png)
 
-And it was also observed that Miroslav Klose is the overall highest goal scorer with 16 goals.
+The overall highest goal scorer is Miroslav Klose(Germany) with 16 goals.
 
 ![image](https://user-images.githubusercontent.com/106377378/175818201-76d87824-68f6-4fe3-baf5-60c66e642bca.png)
 
 The match outcome by home/away/draw was also visualised using Pie chart
 
-![image](https://user-images.githubusercontent.com/106377378/175819881-7a71b892-baa0-447a-ae61-1a770db7f05f.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/106377378/175827181-6eba7009-82dd-419d-8061-68e5934a48a4.png)
 
 
 
@@ -64,9 +64,10 @@ The match outcome by home/away/draw was also visualised using Pie chart
 
 
 ### Visualization
-![1](https://user-images.githubusercontent.com/106377378/175754651-e8ffaf1e-1dbe-47e0-822b-ca87af2f9767.jpeg)
 
-![Screenshot (117)](https://user-images.githubusercontent.com/106377378/175817396-b9b95b72-19ed-4048-b674-7a5e12a2e3f7.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/106377378/175827206-fc966dff-35b1-47d2-8dba-323c3a1e8ea2.png)
+
+![Screenshot (123)](https://user-images.githubusercontent.com/106377378/175827237-4d8874f1-0661-4985-968d-a6645977b906.png)
 
 
 
