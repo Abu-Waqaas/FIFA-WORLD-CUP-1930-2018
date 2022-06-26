@@ -15,12 +15,12 @@ At side hustle Boot Camp, my team was expected to make research on FIFA World Cu
 12. Number of competition hosted by continents
 
 # Data Source
-The data was gathered from kaggle and online. The format was .xxls
+The data were gathered from kaggle and online. The format was CSV
 
 ## Data  Preparation / Transformation
 
 The data were cleaned using Power Query in Microsoft Excel and also a new column was created in the process of cleaning and transformation.
-1. In the Matches sheet, some column were removed due to the fact that we don't really need them and a column was also added, which is the column for home and away win was created using the one of the Excel function = IFS (Home team goal> Away, "H", Home team goal < Away team goal, "A", Home team goal = Away team goal, "D")
+In the Matches sheet, some columns were removed, because we don't really need them and a column was also added, which is the column for home and away win was created using the one of the Excel function = IFS (Home team goal> Away, "H", Home team goal < Away team goal, "A", Home team goal = Away team goal, "D")
 
 ### Analysis
 The data was analysed using Microsoft Power BI, different visuals were used in the analysis processes e.g Bar chart, Pie Chart, Images,  Table, Card etc. 
